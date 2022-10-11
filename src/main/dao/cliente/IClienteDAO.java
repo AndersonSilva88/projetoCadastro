@@ -1,4 +1,4 @@
-package main.dao;
+package main.dao.cliente;
 
 import main.domain.Cliente;
 

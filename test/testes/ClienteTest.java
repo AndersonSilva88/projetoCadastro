@@ -1,7 +1,7 @@
 package testes;
 
-import main.dao.ClienteDAO;
-import main.dao.IClienteDAO;
+import main.dao.cliente.ClienteDAO;
+import main.dao.cliente.IClienteDAO;
 import main.domain.Cliente;
 import org.junit.jupiter.api.Test;
 
